@@ -1,7 +1,7 @@
 Name/n
 Kevin Flynn
 
-Goals/n
+Goals\n
 My goal was to create an input that could count the amount of seconds between button presses and use that as an input
 
 Tools/n
