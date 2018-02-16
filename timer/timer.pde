@@ -1,5 +1,4 @@
 //base code from processingjs
-
 import oscP5.*;
 import netP5.*;
 
@@ -7,7 +6,6 @@ OscP5 oscP5;
 NetAddress dest;
 
 float scale;
-float time = 0;
 int value = 0;
 int startTime = 0, stopTime = 0;
 boolean running = false;  
